@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-👨‍💻 I am a **freelance web developer** with 20+ years of experience developing web applications used worldwide. As a generalist-developer trained in systems analysis, I spent over a decade coding applications before leading development teams. Recently, I refocused my career to return to my first love, hands-on coding work.
+👨‍💻 I am a **freelance web developer** with 20+ years of experience developing web applications used worldwide. As a generalist-developer trained in systems analysis, I spent over a decade coding applications before leading development teams. Recently, I refocused my career to return to **my first love: hands-on coding work.**
 
-📅 With 10+ years of experience in IT business analysis and three years as a SCRUM product owner, I can aim for the right goal with minimal structure that works.
+📅 With 10+ years of experience in IT functional / business analysis and three years as a SCRUM product owner, I can aim for the right goal with minimal structure that works.
 
 🔭 I’m currently working on:
 - Firebase Functions / Firestore backend for an App generating therapeutic playlists for people with Alzheimer.
@@ -20,7 +20,7 @@
 
 😄 Pronouns: he / him
 
-🗣️ Fluent in 🇬🇧 English and 🇪🇸 Spanish (native).   
+Fluent in 🇬🇧 English and 🇪🇸 Spanish (native).   
 
 Bonus:   
 Intermediate knowledge of 🇮🇹 Italian and 🇧🇷 Portuguese.   
