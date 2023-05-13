@@ -20,6 +20,12 @@
 
 😄 Pronouns: he / him
 
+🗣️ Fluent in 🇬🇧 English and 🇪🇸 Spanish (native).   
+
+Bonus:   
+Intermediate knowledge of 🇮🇹 Italian and 🇧🇷 Portuguese.   
+Some *basic* knowledge of 🇳🇱 Dutch and 🇫🇷 French from my adventures around the world.
+
 🇨🇦 I'm currently based in the greater Vancouver, BC, Canada.   
 🕒 PDT / UTC -7 / GMT -7
 <!--
